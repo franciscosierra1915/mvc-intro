@@ -1,0 +1,10 @@
+<ul>
+<% @airlines.each do | airline | %>
+    <li>
+        <a href="/get-airline/<%= airline.id %>">
+            <%= airline.name %>
+        </a>
+    </li>
+<% end %>
+</ul>
+

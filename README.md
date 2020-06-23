@@ -6,9 +6,9 @@
 * Run `shotgun` in the terminal to start the sinatra server
 
 ### Deliverables
-* List Airlines
+<!-- * List Airlines
     * Create a controller action which displays the `list_airlines` view
-    * It should display a list of airlines inside of anchor `a` tags
+    * It should display a list of airlines inside of anchor `a` tags -->
 
 * Single Airline
     * Create a controller action which displays the `single_airline` view
